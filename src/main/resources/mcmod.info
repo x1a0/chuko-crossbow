@@ -1,0 +1,16 @@
+[
+{
+  "modid": "chuko_crossbow",
+  "name": "Chuko-Crossbow Mod",
+  "description": "Add Chuko-crossbow to Minecraft.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authors": ["x1a0"],
+  "credits": "The Minecraft, Forge and FML guys, for making awesome games and tools",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
