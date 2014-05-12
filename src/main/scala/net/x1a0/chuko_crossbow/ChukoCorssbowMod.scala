@@ -18,6 +18,7 @@ object ChukoCrossbowMod {
   @EventHandler
   def preInit(event: FMLPreInitializationEvent) {
     GameRegistry.registerItem(WoodChukoCrossbow, "Wood Chuko-crossbow")
+    GameRegistry.registerItem(TestCube, "Test Cube")
     proxy.preInit(event)
   }
 

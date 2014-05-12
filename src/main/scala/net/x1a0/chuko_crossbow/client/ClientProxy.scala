@@ -12,5 +12,6 @@ class ClientProxy extends Proxy {
 
   private def registerItemRenderer(): Unit = {
     MinecraftForgeClient.registerItemRenderer(WoodChukoCrossbow, new ChukoCrossbowRenderer())
+    MinecraftForgeClient.registerItemRenderer(TestCube, new TestCubeRenderer())
   }
 }
